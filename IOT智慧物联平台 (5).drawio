@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T09:23:10.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="uIvhykYXKNkHOPwjV8N9" version="22.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:06:08.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="fvEWNNI1kOqdJV2V2ZAC" version="22.1.7" type="github">
   <diagram name="第 1 页" id="iPisYXHB47f-z4OymLtx">
-    <mxGraphModel dx="2975" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2649" dy="2218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F82A53;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="300" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-2" value="云(saas)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -22,19 +22,19 @@
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbiCq8tXSKzd1rhAV3YR-7" target="SbiCq8tXSKzd1rhAV3YR-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-7" value="产品设备注册" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#00CC00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-7" value="产品设备注册" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#CCCC76;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-140" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-8" value="租户注册和认证" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#00CC00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-8" value="用户注册和认证" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#CCCC89;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1030" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-9" value="页面请求" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#00CC00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-9" value="页面请求" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#C4CC81;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="280" y="1754" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-10" value="业务层" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#00CC00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-10" value="业务层" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#B4CC7A;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1754" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-11" value="数据层" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#00CC00;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-11" value="数据层" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#C2CC83;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2410" y="1754" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -54,15 +54,6 @@
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-17" value="硬件传感器设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-140" y="554" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-18" value="补光灯" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-155" y="275" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-19" value="热风机" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-155" y="357.5" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-20" value="水肥一体机" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-21" value="设&lt;br&gt;备&lt;br&gt;网&lt;br&gt;关&lt;br&gt;&lt;br&gt;mqtt协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="252.5" width="70" height="250" as="geometry" />
@@ -96,10 +87,10 @@
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-28" value="topic下发设备执行指令" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="440" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-29" target="73Z8bToE0E0CVtLenRyU-3">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SbiCq8tXSKzd1rhAV3YR-29" target="73Z8bToE0E0CVtLenRyU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-6" value="产品,设备的注册和认证过程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="73Z8bToE0E0CVtLenRyU-4">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-6" value="产品,设备的注册和认证过程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="73Z8bToE0E0CVtLenRyU-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0107" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -116,7 +107,7 @@
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="500" y="-120" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-34" value="租户认证连接物联网云平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-34" value="用户认证连接物联网云平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="545" y="-90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-35" value="租户标识: AccessKey&lt;br&gt;&lt;br&gt;租户密钥:&amp;nbsp; AccessSecret" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -156,7 +147,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.994;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-1" edge="1" source="SbiCq8tXSKzd1rhAV3YR-44">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.994;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SbiCq8tXSKzd1rhAV3YR-44" target="SbiCq8tXSKzd1rhAV3YR-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="400" as="sourcePoint" />
             <mxPoint x="760" y="360" as="targetPoint" />
@@ -170,21 +161,6 @@
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="710" width="1840" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.213;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;shadow=0;fillColor=#e51400;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="480" as="sourcePoint" />
-            <mxPoint x="500.00000000000006" y="710.0000000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="480" as="sourcePoint" />
-            <mxPoint x="920" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-54" value="驱动层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="60" height="30" as="geometry" />
         </mxCell>
@@ -197,7 +173,7 @@
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-58" value="页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-59" value="租户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-59" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="980" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-60" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -248,17 +224,14 @@
             <mxPoint x="1405" y="1228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="870" width="480" height="710" as="geometry" />
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-78" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;存储数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="869.5" width="480" height="710" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-79" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="2390" y="980" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-80" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="1260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-81" value="mongoDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="2395" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -266,23 +239,29 @@
             <mxPoint x="1980" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-83" target="qELQCeV14SjLNocWs9rX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-83" target="qELQCeV14SjLNocWs9rX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-83" target="qELQCeV14SjLNocWs9rX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-83" value="租户(租户使用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="2100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-84" value="后台管理(管理员使用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2100" width="120" height="60" as="geometry" />
+        <mxCell id="qELQCeV14SjLNocWs9rX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-84" target="qELQCeV14SjLNocWs9rX-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-85" value="第三方系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="2100" width="120" height="60" as="geometry" />
+        <mxCell id="SbiCq8tXSKzd1rhAV3YR-84" value="后台管理(管理员使用)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-86" value="租户注册&lt;br&gt;租户认证&lt;br&gt;租户的产品管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="2200" width="100" height="30" as="geometry" />
+          <mxGeometry x="-220" y="2115" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-87" value="租户管理&lt;br&gt;租户审核&lt;br&gt;产品管理&lt;br&gt;设备管理等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="2200" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-89" value="养殖业平台&lt;br&gt;畜牧业平台&lt;br&gt;种植业平台&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;农林业平台&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="2210" width="90" height="10" as="geometry" />
+          <mxGeometry x="750" y="2285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -294,21 +273,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="1960" as="sourcePoint" />
             <mxPoint x="150" y="1940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-85" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1960" as="sourcePoint" />
-            <mxPoint x="500" y="1930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-95" value="1. 高标准农林物联网系统软件平台是一个集农林病虫害、气象、土壤墒情、苗情监测于一体的在线监测平台。&lt;br&gt;2. 它利用物联网和传感器技术，对农林里气候情况（空气温湿度，风向，风速，雨量、大气压力等），土壤情况（土壤温湿度、土壤盐分、土壤ph、土壤氮磷钾），病虫害情况（病虫害的种类，数量）、杀虫情况、作物生长情况等进行实时监测和管理。&lt;br&gt;3. 用户可以通过移动端和PC端随时随地查看田间的实时数据并进行系统管理。&lt;br&gt;4. 能够帮助农户更好地管理农作物的种植，有效改善农业生态环境，提高农业生产水平。" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="590" y="2340" width="250" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.446;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-95" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="702" y="2260" as="sourcePoint" />
-            <mxPoint x="750" y="2210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SbiCq8tXSKzd1rhAV3YR-98" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="SbiCq8tXSKzd1rhAV3YR-9" edge="1">
@@ -347,79 +311,69 @@
             <mxPoint x="340" y="1904.7106781186549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="2270" width="840" height="620" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-108" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-107" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="2490" as="sourcePoint" />
-            <mxPoint x="890" y="2440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-109" value="1.虫情监测预警系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2310" width="760" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-110" value="2.环境气候自动监测预警系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2420" width="760" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-111" value="3.孢子捕捉仪控制系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2530" width="760" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-112" value="4.杀虫灯控制系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2640" width="760" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-113" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;5.土壤墒情监测站控制系统&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2760" width="760" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-114" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;土壤墒情监测站控制系统是一种用于监测和管理土壤墒情的系统，旨在实时监测土壤的湿度和水分情况，为农民和农业生产管理者提供科学决策和精准管理的支持。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 1.该系统通过在农田中布设土壤墒情监测站，利用传感器和数据采集设备，实时采集和监测土壤的湿度和水分情况。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 2.传感器可以测量土壤的湿度、含水量、电导率等指标，数据采集设备可以将采集到的数据传输到系统的控制中心。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;3.系统的控制中心通过数据分析和处理，生成相应的报告和图表，显示土壤墒情的实时变化和趋势。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;4.农民和农业生产管理者可以通过系统的用户界面，实时查看和分析土壤的湿度和水分情况，了解土壤的干湿程度、水分的分布情况等。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;5.系统还可以根据土壤墒情的监测结果，提供相应的农事建议和管理措施。比如，根据土壤的湿度情况，可以合理安排灌溉时间和水量，提高灌溉的效率和节水性；根据土壤的水分分布情况，可以调整作物的种植密度和栽培方式，提高作物的产量和质量。&lt;/p&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="3010" width="555" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-115" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.398;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SbiCq8tXSKzd1rhAV3YR-113" target="SbiCq8tXSKzd1rhAV3YR-114" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="2900" as="sourcePoint" />
-            <mxPoint x="1490" y="2850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-116" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;相关功能：&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;1.本系统支持土壤温湿度、土壤盐分、土壤氮磷钾、土壤PH进行监测，通过墒情传感器测量土壤的体积含水量，可以根据作物种类和土壤类型设定不同的预警阈值；&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;2.采用 MODBUS-RTU 标准数据传输协议，支持 4G以太网数据上传，支持数据云计算、 信息云处理；&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;3.全隔离 R485 接口，支持多种土壤类数字传感器接入；&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 1rem; padding: 0px; list-style-type: none; color: rgb(33, 37, 41); font-family: 微软雅黑; font-size: 16px; text-align: left;&quot;&gt;4.平台支持以图片及表格形式展示土壤数据的变化趋势，且可以导出。&lt;/p&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="2720" width="470" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-117" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-116" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1820" y="2800" as="sourcePoint" />
-            <mxPoint x="1870" y="2750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SbiCq8tXSKzd1rhAV3YR-118" value="&lt;font color=&quot;#b12020&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;相关功能和技术点&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SbiCq8tXSKzd1rhAV3YR-117" vertex="1" connectable="0">
-          <mxGeometry x="-0.0138" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-3" value="DeviceKey : 是否有该设备&lt;br&gt;DeviceSecret: 设备的密钥是否正确&lt;br&gt;&lt;br&gt;1. 产品与设备之间是一对多的关联关系;&lt;br&gt;先创建产品,基于产品创建设备.产品,设备创建出来后,会自动生成ProducketKey,DeviceKey,DeviceSecret&lt;br&gt;2. 修改物理设备中产品的标识以及设备的标识,完成物理设备与自己在云平台创建的产品和设备的关联关系;&lt;br&gt;3. 创建出mqtt的topic 用于数据的上传以及指令下发操作;&lt;br&gt;4. 物理设备请求认证接口,完成设备认证操作;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-3" value="DeviceKey : 是否有该设备&lt;br&gt;DeviceSecret: 设备的密钥是否正确&lt;br&gt;&lt;br&gt;1. 产品与设备之间是一对多的关联关系;&lt;br&gt;先创建产品,基于产品创建设备.产品,设备创建出来后,会自动生成ProducketKey,DeviceKey,DeviceSecret&lt;br&gt;2. 修改物理设备中产品的标识以及设备的标识,完成物理设备与自己在云平台创建的产品和设备的关联关系;&lt;br&gt;3. 创建出mqtt的topic 用于数据的上传以及指令下发操作;&lt;br&gt;4. 物理设备请求认证接口,完成设备认证操作;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-25" y="-310" width="260" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-9" value="Mqtt协议定义:&lt;br&gt;MQTT协议是一种基于发布-订阅模式的轻量级消息传输协议.&lt;br&gt;&lt;br&gt;特点:&lt;br&gt;1. 基于发布-订阅模式,提供一对多的消息发布,解除应用耦合性;&lt;br&gt;2. 使用TCP , IP提供网络连接;&lt;br&gt;3. 用于低带宽,弱网环境;&lt;br&gt;4. 小型传输,开销小;&lt;br&gt;5. MQTT比HTTP速率快90多倍;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-9" value="Mqtt协议定义:&lt;br&gt;MQTT协议是一种基于发布-订阅模式的轻量级消息传输协议.&lt;br&gt;&lt;br&gt;特点:&lt;br&gt;1. 基于发布-订阅模式,提供一对多的消息发布,解除应用耦合性;&lt;br&gt;2. 使用TCP , IP提供网络连接;&lt;br&gt;3. 用于低带宽,弱网环境;&lt;br&gt;4. 小型传输,开销小;&lt;br&gt;5. MQTT比HTTP速率快90多倍;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-150" y="760" width="150" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="73Z8bToE0E0CVtLenRyU-9" target="SbiCq8tXSKzd1rhAV3YR-21">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="73Z8bToE0E0CVtLenRyU-9" target="SbiCq8tXSKzd1rhAV3YR-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-250" y="770" as="sourcePoint" />
             <mxPoint x="-200" y="720" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-11" value="Mqtt协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="73Z8bToE0E0CVtLenRyU-10">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-11" value="Mqtt协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="73Z8bToE0E0CVtLenRyU-10" vertex="1" connectable="0">
           <mxGeometry x="-0.0876" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-12" value="数字化农林业智慧物联平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=31;" vertex="1" parent="1">
-          <mxGeometry x="575" y="-510" width="395" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="73Z8bToE0E0CVtLenRyU-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SbiCq8tXSKzd1rhAV3YR-78">
+        <mxCell id="73Z8bToE0E0CVtLenRyU-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SbiCq8tXSKzd1rhAV3YR-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2470" y="1750" as="sourcePoint" />
             <mxPoint x="2520" y="1700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;智慧家电控制系统&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-480" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-2" value="电视机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-3" value="灯" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="355" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1.003;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-5" target="SbiCq8tXSKzd1rhAV3YR-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="592" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.215;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SbiCq8tXSKzd1rhAV3YR-5" target="SbiCq8tXSKzd1rhAV3YR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-10" value="等等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qELQCeV14SjLNocWs9rX-12" target="qELQCeV14SjLNocWs9rX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-12" value="优惠卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-16" value="1.sentinel，设置QPS进行流量控制&lt;br&gt;2.redisen,watchDog,保证线程安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2175" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-20" value="各种家电的控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-23" value="优惠卷管理&lt;br&gt;用户管理&lt;br&gt;退款管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qELQCeV14SjLNocWs9rX-26" value="家电状态监控" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
